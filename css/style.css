@@ -16,12 +16,12 @@
 }
 
 .btn-primary {
-  background-color: #599bfd;
-  color: white;
+  background-color: white;
+  color: black;
 }
 
 .btn-secondary {
-  background-color: #ee16ad;
+  background-color: #ff0000;
   color: white;
 }
 
@@ -39,7 +39,7 @@
 }
 
 body {
-  background-color: #ff6464;
+  background-color: #3b7217;
   font-family: Trebuchet MS, Arial, sans-serif;
   line-height: 1;
 }
@@ -53,7 +53,7 @@ a {
 }
 
 .hero {
-  background-color: #267cfd;
+  background-color: #0066ff;
   color: white;
   height: 600px;
 }
@@ -73,7 +73,7 @@ a {
   color: white;
 }
 .hero nav a:hover {
-  color: #ee16ad;
+  color: #ff0000;
 }
 .hero-content {
   height: 100%;
